@@ -1,2 +1,2 @@
-# My-Project
-UI/UX design project supported by basic data mining. Focused on building intuitive and appealing interfaces through user research, data analysis, prototyping, and design evaluation to create optimal user experiences.
+# SISNAIVE
+SISNAIVE is a student character prediction app using the Naive Bayes method. It classifies students as Passive, Active, or Outstanding based on score, attendance, and participation data.
